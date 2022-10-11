@@ -7,7 +7,7 @@ Download Git,buka website resminya Git(git-scm.com).
 Kemudian unduh Git Sesuai dengan OS komputer kita
 Linux,MacOS,ataupun Windows dapat memilih 64 bit atau 32 bit
 Git berhasil di install
-![Gambar1] (img/Git1.png) 
+![Gambar1](img/Git1.png) 
 
 
 ## Menambahkan Global Config
@@ -23,7 +23,7 @@ git config --global user.name "Fardhilan"
 git config --global user.email fardhilangalang321@gmail.com
 
 ```
-![Gambar2] (img/Git2.png)
+![Gambar2](img/Git2.png)
 
 ## Membuat Repository Local 
 Buat Repository Local dengan PRAKTIKUM
@@ -32,7 +32,7 @@ Buat Repository Local dengan PRAKTIKUM
 mkdir /d/Praktikum
 cd /d/Praktikum
 ```
-![Gambar3] (img/Git3.png)
+![Gambar3](img/Git3.png)
 
 ## Menjalankan Git init
 Jalankan perintah git init
@@ -46,7 +46,7 @@ Gunakan perintah
 ```
 $ echo "# TUGAS BAHASA PEMROGRAMAN" >>> README.md
 ```
-![Gambar4] (img/Git4.png)
+![Gambar4](img/Git4.png)
 
 ## Konfirmasi Perubahan File
 Untuk menyimpan perubahan menggunakan
@@ -58,9 +58,9 @@ git commit -m "<pesan commit>"
 Server Repository http://github.com
 Setelah Anda mendaftar akun
 Pilih menu icon + pilih New repository
-![Gambar5] (img/Git5.png)
+![Gambar5](img/Git5.png)
 
 ## Pengisian Repository Server
 Isi sesuai dengan keperluan
 lalu Create Repository
-![Gambar6] (img/Git6.png)
+![Gambar6](img/Git6.png)
