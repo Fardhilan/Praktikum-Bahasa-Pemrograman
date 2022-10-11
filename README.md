@@ -6,6 +6,7 @@
 Download Git,buka website resminya Git(git-scm.com).
 Kemudian unduh Git Sesuai dengan OS komputer kita
 Linux,MacOS,ataupun Windows dapat memilih 64 bit atau 32 bit menyesuaikan
+
 ![Gambar1](img/Git1.png) 
 
 
