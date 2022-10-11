@@ -64,3 +64,13 @@ Pilih menu icon + pilih New repository
 Isi sesuai dengan keperluan
 lalu Create Repository
 ![Gambar6](img/Git6.png)
+
+## Remote Github
+Dengan Perintah
+```
+git remote add origin https://github.com/Fardhilan/Praktikum-Bahasa-Pemrograman.git
+```
+Untuk menyimpan ke Repository Server menggunakan 
+```
+git push -u origin master
+```
