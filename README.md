@@ -1,7 +1,7 @@
 # TUGAS BAHASA PEMROGRAMAN
 ## Praktikum 1 Fardhilan Galang Priarto
 
-### Instalasi Git
+## Instalasi Git
 
 Download Git,buka website resminya Git(git-scm.com).
 Kemudian unduh Git Sesuai dengan OS komputer kita
